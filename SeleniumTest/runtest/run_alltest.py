@@ -30,7 +30,7 @@ def send_mail(file_new):
     msg['Subject'] = Header("自动化测试报告",'utf-8')
 
     msg['From'] = '陈功<17372253210@163.com>'
-    msg['To'] = 'chengong@ekuaibao.com'
+    msg['To'] = '17372253210@163.com'
     smtp.sendmail (sender, receiver, msg.as_string ())
     smtp.quit ()
 
