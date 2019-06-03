@@ -19,7 +19,7 @@ def send_mail(file_new):
     smtp = smtplib.SMTP ()
     smtp.connect ('smtp.163.com')
     sender = '17372253210@163.com'
-    receiver = 'chengong@ekuaibao.com'
+    receiver = '17372253210@163.com'
     username = '17372253210@163.com'
     password = 'qweqwe123'
     smtp.login (username, password)
