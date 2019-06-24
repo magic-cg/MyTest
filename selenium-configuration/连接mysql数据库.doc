@@ -1,0 +1,357 @@
+Message-ID: <2066034588.74349.1561350268786.JavaMail.confluence@ea90c463e47b>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_74348_343900874.1561350268786"
+
+------=_Part_74348_343900874.1561350268786
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>=E8=BF=9E=E6=8E=A5mysql=E6=95=B0=E6=8D=AE=E5=BA=93</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>=E8=BF=9E=E6=8E=A5mysql=E6=95=B0=E6=8D=AE=E5=BA=93</h1>
+    <div class=3D"Section1">
+        <p>=E4=B8=80=E3=80=81=E9=92=88=E5=AF=B9python=E7=89=88=E6=9C=AC=E4=
+=B8=8D=E5=90=8C=EF=BC=8C=E5=AE=89=E8=A3=85=E6=95=B0=E6=8D=AE=E5=BA=93=E4=B8=
+=8D=E5=90=8C</p>
+<p style=3D"text-align: justify;">python2 =E5=AF=B9=E5=BA=94=E7=9A=84=E6=A8=
+=A1=E5=9D=97=E6=98=AF MySQLdb, MySQLdb =E4=B8=8D=E6=94=AF=E6=8C=81python3</=
+p>
+<p style=3D"text-align: justify;">python3=E5=AF=B9=E5=BA=94=E7=9A=84=E6=A8=
+=A1=E5=9D=97=E6=98=AFpymysql</p>
+<p class=3D"p2"><span class=3D"s1">=E4=BA=8C=E3=80=81python2=E5=AE=89=E8=A3=
+=85</span></p>
+<p class=3D"p2"><span class=3D"s1">=E5=9C=A8pycharm=E4=B8=AD=E7=9B=B4=E6=8E=
+=A5import MySQLdb=EF=BC=8C=E5=A6=82=E6=9E=9C=E6=97=A0=E6=B3=95=E7=9B=B4=E6=
+=8E=A5import=E7=9A=84=EF=BC=8C=E5=88=99=E8=A1=A8=E6=98=8E=E4=BD=A0=E5=B9=B6=
+=E6=9C=AA=E5=AE=89=E8=A3=85MySQLdb</span></p>
+<p class=3D"p2"><span class=3D"s1">1=E3=80=81=E4=B8=8B=E8=BD=BD<a href=3D"/=
+download/attachments/8355863/MySQL-python-1.2.5.zip?version=3D1&amp;modific=
+ationDate=3D1534498029000&amp;api=3Dv2" data-linked-resource-id=3D"8355993"=
+ data-linked-resource-version=3D"1" data-linked-resource-type=3D"attachment=
+" data-linked-resource-default-alias=3D"MySQL-python-1.2.5.zip" data-nice-t=
+ype=3D"Zip Archive" data-linked-resource-content-type=3D"application/zip" d=
+ata-linked-resource-container-id=3D"8355863" data-linked-resource-container=
+-version=3D"6">MySQL-python-1.2.5</a>=EF=BC=8C=E4=B8=8B=E8=BD=BD=E5=9C=B0=
+=E5=9D=80&nbsp;<a class=3D"external-link" href=3D"https://pypi.org/project/=
+MySQL-python/" rel=3D"nofollow">https://pypi.org/project/MySQL-python/</a><=
+/span></p>
+<p class=3D"p2"><span class=3D"s1">2=E3=80=81=E8=BF=9B=E5=85=A5=E5=88=B0=E5=
+=AE=89=E8=A3=85=E5=8C=85=E7=9A=84=E4=B8=8B=E8=BD=BD=E8=B7=AF=E5=BE=84=EF=BC=
+=8C=E6=89=A7=E8=A1=8C&nbsp;<span style=3D"color: rgb(0,0,0);"><span class=
+=3D"hljs-title"><span class=3D"hljs-selector-tag">python</span></span>&nbsp=
+;<span class=3D"hljs-selector-tag">setup.</span><span class=3D"hljs-selecto=
+r-class">py</span>&nbsp;<span class=3D"hljs-selector-tag">build=E3=80=82=E8=
+=8B=A5=E6=AD=A4=E6=97=B6=E6=8A=A5=E9=94=99=E4=BF=A1=E6=81=AF=E4=B8=BA=EF=BC=
+=9Amysql_config ,command not found=E3=80=82=E5=88=99=E8=A1=A8=E6=98=8E<span=
+ style=3D"color: rgb(0,0,0);">mysql_config.path=E7=9A=84=E8=B7=AF=E5=BE=84=
+=E4=B8=8D=E5=AF=B9=E3=80=82</span></span></span></span></p>
+<p class=3D"p2"><span class=3D"s1"><span style=3D"color: rgb(0,0,0);"><span=
+ class=3D"hljs-selector-tag"><span style=3D"color: rgb(0,0,0);">3=E3=80=81=
+=E6=AD=A4=E6=97=B6=E5=BA=94=E8=AF=A5<span>=E9=A6=96=E5=85=88=E6=9F=A5=E6=89=
+=BEmysql_config=E7=9A=84=E4=BD=8D=E7=BD=AE=EF=BC=8C=E4=BD=BF=E7=94=A8</span=
+><br><span>find / -name mysql_config</span></span></span></span></span></p>
+<p class=3D"p2"><span class=3D"s1"><span style=3D"color: rgb(0,0,0);"><span=
+ class=3D"hljs-selector-tag"><span style=3D"color: rgb(0,0,0);">4=E3=80=81=
+=E8=8B=A5=E6=9C=AA=E6=89=BE=E5=88=B0<span style=3D"color: rgb(0,0,0);">mysq=
+l_config=E7=9A=84=E4=BD=8D=E7=BD=AE=EF=BC=8C=E5=88=99=E8=A1=A8=E6=98=8E=E4=
+=BD=A0=E7=9A=84=E7=94=B5=E8=84=91=E6=9C=AA=E5=AE=89=E8=A3=85mysql=E7=9A=84=
+=E6=9C=8D=E5=8A=A1=E5=99=A8=E3=80=82=E6=89=A7=E8=A1=8C&nbsp;&nbsp;<span sty=
+le=3D"color: rgb(0,0,0);">brew install mysql=E5=AE=89=E8=A3=85</span></span=
+></span></span></span></span></p>
+<p class=3D"p2"><span class=3D"s1"><span style=3D"color: rgb(0,0,0);"><span=
+ class=3D"hljs-selector-tag"><span style=3D"color: rgb(0,0,0);"><span style=
+=3D"color: rgb(0,0,0);"><span style=3D"color: rgb(0,0,0);">5=E3=80=81=E5=AE=
+=89=E8=A3=85=E5=AE=8C=E6=88=90=E5=90=8E=EF=BC=8C=E4=BF=AE=E6=94=B9<span>set=
+up_posix.py=E6=96=87=E4=BB=B6=E9=87=8C</span></span></span></span></span></=
+span><span class=3D"hljs-selector-tag"><span style=3D"color: rgb(101,123,13=
+1);">mysql_config.path</span></span><span class=3D"hljs-selector-tag">&nbsp=
+;=E7=9A=84=E8=B7=AF=E5=BE=84=EF=BC=8C=E4=BF=AE=E6=94=B9=E4=B8=BA=E6=9C=AC=
+=E6=9C=BA<span style=3D"color: rgb(0,0,0);">mysql_config=E7=9A=84=E8=B7=AF=
+=E5=BE=84=E3=80=82</span></span></span></p>
+<p class=3D"p2"><span class=3D"s1"><span class=3D"hljs-selector-tag"><span =
+style=3D"color: rgb(0,0,0);">=E5=8F=82=E8=80=83=E6=96=87=E6=A1=A3&nbsp;<a c=
+lass=3D"external-link" href=3D"https://blog.csdn.net/xiaodanpeng/article/de=
+tails/46120359" rel=3D"nofollow">https://blog.csdn.net/xiaodanpeng/article/=
+details/46120359</a></span></span></span></p>
+<p class=3D"p2"><span class=3D"s1"><span class=3D"hljs-selector-tag"><span =
+style=3D"color: rgb(0,0,0);">6=E3=80=81=E6=AD=A4=E6=97=B6=E7=BB=A7=E7=BB=AD=
+=E6=89=A7=E8=A1=8C&nbsp;<span class=3D"hljs-title" style=3D"color: rgb(0,0,=
+0);"><span class=3D"hljs-selector-tag">python</span></span><span style=3D"c=
+olor: rgb(0,0,0);">&nbsp;</span><span class=3D"hljs-selector-tag" style=3D"=
+color: rgb(0,0,0);">setup.</span><span class=3D"hljs-selector-class" style=
+=3D"color: rgb(0,0,0);">py</span><span style=3D"color: rgb(0,0,0);">&nbsp;<=
+/span><span class=3D"hljs-selector-tag" style=3D"color: rgb(0,0,0);">build=
+=E3=80=81</span></span><span style=3D"color: rgb(0,0,0);"><span class=3D"hl=
+js-selector-tag"><span class=3D"hljs-title"><span class=3D"hljs-selector-ta=
+g">python</span></span></span><span class=3D"hljs-selector-tag">&nbsp;<span=
+ class=3D"hljs-selector-tag">setup</span><span class=3D"hljs-selector-class=
+">.py</span>&nbsp;<span class=3D"hljs-selector-tag">build=E3=80=82=E8=8B=A5=
+=E6=97=A0=E6=84=8F=E5=A4=96=EF=BC=8C=E5=BA=94=E8=AF=A5=E6=98=AF=E5=8F=AF=E4=
+=BB=A5=E5=AE=89=E8=A3=85=E6=88=90=E5=8A=9F=E7=9A=84</span></span></span></s=
+pan></span></p>
+<p class=3D"p2"><span class=3D"s1"><span class=3D"hljs-selector-tag"><span =
+style=3D"color: rgb(0,0,0);"><span class=3D"hljs-selector-tag"><span class=
+=3D"hljs-selector-tag">7=E3=80=81=E8=8B=A5=E5=87=BA=E7=8E=B0=E6=84=8F=E5=A4=
+=96=EF=BC=8C=E5=8F=82=E8=80=83=E8=BF=99=E7=AF=87=E6=96=87=E7=AB=A0=EF=BC=8C=
+=E6=88=91=E5=AE=89=E8=A3=85=E9=81=87=E5=88=B0=E7=9A=84=E5=9D=91=EF=BC=8C=E9=
+=83=BD=E6=98=AF=E4=BB=8E=E8=BF=99=E4=B8=AA=E6=96=87=E7=AB=A0=E4=B8=AD=E5=BE=
+=97=E4=BB=A5=E8=A7=A3=E5=86=B3</span></span></span></span></span></p>
+<p class=3D"p2"><span class=3D"s1"><span class=3D"hljs-selector-tag"><span =
+style=3D"color: rgb(0,0,0);"><span class=3D"hljs-selector-tag"><span class=
+=3D"hljs-selector-tag"><a class=3D"external-link" href=3D"https://blog.csdn=
+.net/love_parents/article/details/80938818" rel=3D"nofollow">https://blog.c=
+sdn.net/love_parents/article/details/80938818</a></span></span></span></spa=
+n></span></p>
+<p class=3D"p2"><span class=3D"s1"><span class=3D"hljs-selector-tag"><span =
+style=3D"color: rgb(0,0,0);"><span class=3D"hljs-selector-tag"><span class=
+=3D"hljs-selector-tag"><a class=3D"external-link" href=3D"https://www.sunny=
+os.com/article-show-38.html" rel=3D"nofollow">https://www.sunnyos.com/artic=
+le-show-38.html</a></span></span></span></span></span></p>
+<p class=3D"p2"><span class=3D"s1">=E4=B8=89=E3=80=81=E7=94=B1=E4=BA=8E=E6=
+=88=91=E7=94=A8=E7=9A=84=E6=98=AFpython2.7=EF=BC=8C=E6=89=80=E4=BB=A5<span>=
+pymysql=E6=9A=82=E6=97=B6=E6=9C=AA=E5=B0=9D=E8=AF=95=EF=BC=8C=E5=8F=AF=E8=
+=87=AA=E8=A1=8C=E7=99=BE=E5=BA=A6=EF=BC=8C=E7=9B=B8=E4=BF=A1=E4=BD=A0=E5=8F=
+=AF=E4=BB=A5=E5=93=92</span></span></p>
+<p class=3D"p2"><span class=3D"s1"><span>=E5=9B=9B=E3=80=81=E5=AE=89=E8=A3=
+=85=E6=88=90=E5=8A=9F=E5=90=8E=EF=BC=8C=E5=8F=AF=E7=9B=B4=E6=8E=A5import My=
+SQLdb</span></span></p>
+<p class=3D"p2"><span class=3D"s1"><span>1=E3=80=81=E6=AD=A4=E6=97=B6=E9=80=
+=9A=E8=BF=87=E5=86=99=E8=84=9A=E6=9C=AC=E5=AF=B9=E6=95=B0=E6=8D=AE=E5=BA=93=
+=E8=BF=9B=E8=A1=8C=E5=A2=9E=E5=88=A0=E6=94=B9=E6=9F=A5=EF=BC=8C=E5=8F=AF=E5=
+=8F=82=E8=80=83=E4=B8=8B=E9=9D=A2=E7=9A=84=E6=96=87=E7=AB=A0</span></span><=
+/p>
+<p class=3D"p2"><span class=3D"s1"><span><a class=3D"external-link" href=3D=
+"https://blog.csdn.net/a136332462/article/details/68491353" rel=3D"nofollow=
+">https://blog.csdn.net/a136332462/article/details/68491353</a></span></spa=
+n></p>
+<p class=3D"p2"><span class=3D"s1"><span>=E4=BA=94=E3=80=81=E6=95=B0=E6=8D=
+=AE=E5=BA=93=E7=9A=84=E7=BB=93=E6=9E=84=EF=BC=8C=E6=AF=8F=E4=B8=AA=E8=A1=A8=
+=E6=AF=8F=E4=B8=AA=E5=AD=97=E6=AE=B5=E7=9A=84=E6=84=8F=E6=80=9D=EF=BC=8C=E8=
+=A1=A8=E5=92=8C=E8=A1=A8=E4=B9=8B=E9=97=B4=E7=9A=84=E5=85=B3=E8=81=94=E5=8F=
+=AA=E8=83=BD=E6=85=A2=E6=85=A2=E7=A7=AF=E7=B4=AF=E4=BA=86</span></span></p>
+<p class=3D"p2"><span class=3D"s1"><br></span></p>
+    </div>
+</body>
+</html>
+------=_Part_74348_343900874.1561350268786--
