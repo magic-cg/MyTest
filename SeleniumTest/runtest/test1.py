@@ -1,4 +1,6 @@
 # -*- coding:utf-8 -*-
+# 这是将page、case、action写在同一个页面下的，不可发邮件 2019/06/27
+
 from HTMLTestRunner import HTMLTestRunner
 import unittest
 from selenium import webdriver
@@ -36,3 +38,4 @@ class BaiDu(unittest.TestCase):
 #
 #     runner.run(testunit)
 #     fp.close()
+
