@@ -7,6 +7,8 @@ class NewBaiDu:
         driver = BaiduPage(driver)
         driver.find_element(BaiduPage.kw).send_keys("111")
         driver.find_element(BaiduPage.su).click()
+    #   title = driver.title
+    #   self.assertEqual(title, u"python2 - 搜狗搜索")
         print("成功")
 
 

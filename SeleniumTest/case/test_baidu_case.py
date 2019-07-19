@@ -10,9 +10,10 @@ class BaiDu(unittest.TestCase):
         self.driver = common.login.get_url()
 
     def test_baidu_search1(self):
-        ''' 测试用例1'''
+        u''' 测试用例1'''
         driver = BD.NewBaiDu()
         driver.baidu_search1(self.driver)
+
         sleep(2)
         print("第一个参数")
 
